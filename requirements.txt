@@ -8,5 +8,5 @@ pyFAI>=0.21.0
 PyQt5
 pyOpenCl
 siphash24
-mesa-libGL
+mesa
 ipympl
