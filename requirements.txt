@@ -1,0 +1,7 @@
+Numpy
+Matplolib
+Scipy
+Fabio
+Pandas
+Lmfit
+pyFAI
