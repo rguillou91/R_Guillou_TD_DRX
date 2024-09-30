@@ -1,5 +1,5 @@
 Numpy
-Matplolib
+Matplolib==3.*
 Scipy
 Fabio
 Pandas
