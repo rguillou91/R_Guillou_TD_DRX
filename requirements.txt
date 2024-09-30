@@ -10,3 +10,4 @@ pyOpenCl
 siphash24
 mesa
 ipympl
+Requests
