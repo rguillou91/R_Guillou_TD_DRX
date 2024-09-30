@@ -1,4 +1,4 @@
-numpy>=1.24.0
+numpynumpy<2
 matplotlib==3.7.1
 scipy>=1.10.0
 fabio>=0.14.0
