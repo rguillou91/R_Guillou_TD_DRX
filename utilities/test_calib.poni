@@ -1,0 +1,12 @@
+# Nota: C-Order, 1 refers to the Y axis, 2 to the X axis
+# Calibration done at Thu Sep  5 09:50:34 2024
+poni_version: 2.1
+Detector: RayonixSx165
+Detector_config: {"pixel1": 7.9e-05, "pixel2": 7.9e-05, "orientation": 3}
+Distance: 0.5953239770830356
+Poni1: 0.18086727501274305
+Poni2: 0.19215568061681293
+Rot1: -0.001281972778486329
+Rot2: -0.005199053469815023
+Rot3: 0.0
+Wavelength: 7.044556729159105e-11

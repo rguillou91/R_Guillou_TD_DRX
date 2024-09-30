@@ -5,3 +5,4 @@ fabio>=0.14.0
 pandas>=1.5.0
 lmfit>=1.0.0
 pyFAI>=0.21.0
+PyQt5
